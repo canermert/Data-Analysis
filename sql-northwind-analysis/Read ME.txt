@@ -1,0 +1,42 @@
+📊 SQL Analysis Project – Northwind Database
+
+📌 Project Overview
+
+This project contains a collection of 100 SQL queries performed on the Northwind database.
+The goal is to simulate real-world business analysis scenarios and demonstrate practical SQL skills used in data analytics.
+
+
+
+🗂️ About the Dataset
+
+The **Northwind database** is a sample business dataset that represents a company managing:
+
+* Customers
+* Orders
+* Products
+* Employees
+* Suppliers
+
+It is commonly used to practice SQL and understand relational database structures.
+
+
+
+🎯 Objectives
+
+* Practice writing efficient and structured SQL queries
+
+🧠 Skills Demonstrated
+
+* Data extraction using `SELECT`, `WHERE`, `ORDER BY`
+* Joining multiple tables (`INNER JOIN`, `LEFT JOIN`)
+* Aggregations (`COUNT`, `SUM`, `AVG`)
+* Data grouping (`GROUP BY`, `HAVING`)
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window functions for advanced analysis
+
+
+
+
+
+
