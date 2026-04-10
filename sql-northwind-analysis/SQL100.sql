@@ -147,6 +147,15 @@ order by o.CustomerID
 --order by Count(o.OrderID)
 
 
+--56) Find products with the same price as “Chang”.
+
+--select * from Products
+--where UnitPrice = (select UnitPrice from Products where ProductName='Chang')
+
+--59) Show customers whose company name starts with ‘A’.
+--select * from Customers
+--where CompanyName LIKE 'A%'
+
 
 
 
